@@ -1,0 +1,17 @@
+.sommaire1 li {
+	list-style-type: none;
+	padding: 2px auto;
+	border-top-left-radius: 0px;
+}
+.sommaire1 a {
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+.sommaire1 a:hover {
+	font-size: 30px;
+	color: #6D71DD;
+}

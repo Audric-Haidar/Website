@@ -1,0 +1,40 @@
+.btn-blue {
+	background-color: #6D71DD;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+#intro:hover {
+	font-size: 22px;
+	background-color: #51C3D6;
+}
+
+#signup {
+	background-color: #7CD08F;
+	text-align: center;
+	display: inline-block;
+}
+
+#signup:hover {
+	font-size: 22px;
+}
+
+#cho {
+	background-color: #56CBF9;
+}
+
+#cho p {
+	text-align: center;
+	margin: auto;
+}
+
+#cho p a {
+	display: inline-block;
+}
+
+#cho:hover {
+	font-size: 22px;
+}
